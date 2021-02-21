@@ -1,19 +1,19 @@
 # form-demo
 
-Empty project.
+Experimenting with `react-beautiful-dnd` to create a From Builder
 
 ## How to run on localhost
 
 First install dependencies:
 
 ```sh
-npm install
+yarn
 ```
 
 To run in dev mode mode:
 
 ```sh
-npm start
+yarn start
 ```
 
 Then go to http://localhost:8080
@@ -21,7 +21,7 @@ Then go to http://localhost:8080
 To create a production build:
 
 ```sh
-npm run build
+yarn build
 ```
 
 ## Credits
